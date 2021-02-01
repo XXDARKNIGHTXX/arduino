@@ -3,4 +3,4 @@
 
 esta es la primera vez
 
-[MAAAQRQWERQGASDFGAQGHYY](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
