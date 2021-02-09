@@ -22,3 +22,5 @@ esta es la primera vez
 [Indicador de Estado](https://github.com/XXDARKNIGHTXX/arduino/tree/main/Indicador_de_estado)
 
  [Victor Elice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/VICTOR_HELICE)
+ 
+[Proyecto 2 botones que cambian este ciclo de movimientos]()
