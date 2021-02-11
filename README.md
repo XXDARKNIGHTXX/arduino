@@ -16,17 +16,22 @@ Este texto no tiene formato. **Este está en negrita**. Y, además _este está e
 
 Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y estamos practicando. Esto es un repositiorio ... Estamos haciendo un semaforo, una melodia, Feliz Cumpleaños, Theremin y otros proyectos  y mis compañeros los concuns.
 
-### Proyectos con solo led y botones
-
-### Proyectos sensor de temperatura
-
-### Proyectos con LED RGB
+### Proyectos con solo led y botones😈
 
 
-### Proyectos con pieza (Altavoz)
+### Proyectos sensor de temperatura🖤
 
 
-### Proyecto con sensor motor y potenciómetro
+### Proyectos con LED RGB🔥
+
+
+### Proyectos con pieza (Altavoz)💸
+
+
+### Proyecto con sensor motor y potenciómetro🐾
+
+
+### Otros enlaces y documentación
 
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
