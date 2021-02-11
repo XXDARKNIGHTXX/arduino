@@ -56,6 +56,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 ![atet](https://raw.githubusercontent.com/XXDARKNIGHTXX/arduino/main/Captura%20de%20pantalla%20de%202021-02-11%2012-14-46.png)
 ![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-11%2012-28-01.png)
+![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/VICTOR%20CAPTURA%20DE%20PANTALLA%2B.png)
 
 
 
