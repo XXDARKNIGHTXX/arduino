@@ -33,24 +33,25 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 ### Proyectos con piezo (Altavoz)💸
 
-[Theremin](https://github.com/XXDARKNIGHTXX/arduino/blob/main/theremin.ino)
-[Feliz Cumpleaños](https://github.com/XXDARKNIGHTXX/arduino/blob/main/FELIZCUMPLEA_OS.inoVictor.ino)
-[Melodia](https://github.com/XXDARKNIGHTXX/arduino/blob/main/MELODIA.INO)
+* [Theremin](https://github.com/XXDARKNIGHTXX/arduino/blob/main/theremin.ino)
+* [Feliz Cumpleaños](https://github.com/XXDARKNIGHTXX/arduino/blob/main/FELIZCUMPLEA_OS.inoVictor.ino)
+* [Melodia](https://github.com/XXDARKNIGHTXX/arduino/blob/main/MELODIA.INO)
 
 
 ### Proyecto con sensor motor y potenciómetro🎵
 
-[Giro de Helice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/GIRO%20DE%20HELICE)
-[Victor Elice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/VICTOR_HELICE)
-[Indicador de Estado](https://github.com/XXDARKNIGHTXX/arduino/blob/main/Indicador_de_estado/Indicador_de_estado_de__nimo.ino)
+* [Giro de Helice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/GIRO%20DE%20HELICE)
+* [Victor Elice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/VICTOR_HELICE)
+* [Indicador de Estado](https://github.com/XXDARKNIGHTXX/arduino/blob/main/Indicador_de_estado/Indicador_de_estado_de__nimo.ino)
+
 
 
 
 ### Otros enlaces y documentación🐾
 
 
-[MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[Enlace a emojis](https://emojikeyboard.top/es/)
+* [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Enlace a emojis](https://emojikeyboard.top/es/)
 
 
 
