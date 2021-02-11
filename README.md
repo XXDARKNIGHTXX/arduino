@@ -1,7 +1,7 @@
 # proyecto de arduino
 ## Empezando a documentar
 
-esta es la primera vez
+_esta es la primera vez_
 
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
