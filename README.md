@@ -3,6 +3,8 @@
 
 _esta es la primera vez_
 
+Este texto no tiene formato. *Este está en negrita*. Y, además_este está en cursiva_.
+
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Kill switch con sensores y led RGB](https://github.com/XXDARKNIGHTXX/arduino/blob/main/KILL_SWITCH.ino)
