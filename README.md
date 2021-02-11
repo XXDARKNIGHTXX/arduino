@@ -12,34 +12,48 @@ Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y esta
 
 ### Proyectos con solo led y botones😈
 
+[Sensores de Botones](https://github.com/XXDARKNIGHTXX/arduino/blob/main/SENSORES_DE_BOTONES_VICTOR_RODRIGUEZ_ESTEBAN.ino)
+
 
 ### Proyectos sensor de temperatura🖤
 
+[Sensor de temperatura](https://github.com/XXDARKNIGHTXX/arduino/blob/main/sketch_jan25a_TEMPERATURA/sketch_jan25a_VICTOR_R.ino)
+
 
 ### Proyectos con LED RGB🔥
-
-
-### Proyectos con pieza (Altavoz)💸
-
-
-### Proyecto con sensor motor y potenciómetro🐾
-
-
-### Otros enlaces y documentación🐧
-
-[MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-
 [Kill switch con sensores y led RGB](https://github.com/XXDARKNIGHTXX/arduino/blob/main/KILL_SWITCH.ino)
 
-[Sensores de Botones](https://github.com/XXDARKNIGHTXX/arduino/blob/main/SENSORES_DE_BOTONES_VICTOR_RODRIGUEZ_ESTEBAN.ino)
 
-[Sensor de temperatura](https://github.com/XXDARKNIGHTXX/arduino/blob/main/sketch_jan25a_TEMPERATURA/sketch_jan25a_VICTOR_R.ino)
+### Proyectos con piezo (Altavoz)💸
 
 [Theremin](https://github.com/XXDARKNIGHTXX/arduino/blob/main/theremin.ino)
 
+
+### Proyecto con sensor motor y potenciómetro🎵
+[Feliz Cumpleaños](https://github.com/XXDARKNIGHTXX/arduino/blob/main/FELIZCUMPLEA_OS.inoVictor.ino)
 [Melodia](https://github.com/XXDARKNIGHTXX/arduino/blob/main/MELODIA.INO)
 
-[Feliz Cumpleaños](https://github.com/XXDARKNIGHTXX/arduino/blob/main/FELIZCUMPLEA_OS.inoVictor.ino)
+
+
+### Otros enlaces y documentación🐾
+
+
+
+
+
+
+
+
+[MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
+
+
+
+
+
+
+
 
 [Giro de Helice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/GIRO%20DE%20HELICE)
 
