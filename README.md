@@ -50,7 +50,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[Enlace a emojis]()
+[Enlace a emojis](https://emojikeyboard.top/es/)
 
 
 
