@@ -1,20 +1,14 @@
 # proyecto de arduino
-## Empezando a documentar
 
-_esta es la primera vez_
-
-Este texto no tiene formato. **Este está en negrita**. Y, además _este está en cursiva _.
-
-<b>Victor</b>
-
- <i> Rodriguez</i> 
- 
- <del> Esteban</del>
 
 ## Descripción del proyecto
 
 
 Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y estamos practicando. Esto es un repositiorio ... Estamos haciendo un semaforo, una melodia, Feliz Cumpleaños, Theremin y otros proyectos  y mis compañeros los concuns.
+
+## Índicde de proyectos
+
+## Proyectos realizados
 
 ### Proyectos con solo led y botones😈
 
@@ -58,3 +52,15 @@ Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y esta
  [Botones_Sumas_y_Restas_Grados_VICTOR](https://github.com/XXDARKNIGHTXX/arduino/tree/main/BOTONES_SUMAS_Y_RESTAS_GRADOS_VICTOR)
  
  [Lampara De Colores](https://github.com/XXDARKNIGHTXX/arduino/tree/main/lampara_de_colores.ino_Victor)
+ 
+ ## Empezando a documentar
+
+_esta es la primera vez_
+
+Este texto no tiene formato. **Este está en negrita**. Y, además _este está en cursiva _.
+
+<b>Victor</b>
+
+ <i> Rodriguez</i> 
+ 
+ <del> Esteban</del>
