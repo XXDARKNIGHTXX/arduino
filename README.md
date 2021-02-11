@@ -14,7 +14,7 @@ Este texto no tiene formato. **Este está en negrita**. Y, además _este está e
 ## Descripción del proyecto
 
 
-Holaa Soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y estamos practicando. Esto es un repositiorio ... Estamos haciendo un semaforo, una melodia, Feliz Cumpleaños, Theremin y otros proyectos  y mis compañeros los concuns.
+Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y estamos practicando. Esto es un repositiorio ... Estamos haciendo un semaforo, una melodia, Feliz Cumpleaños, Theremin y otros proyectos  y mis compañeros los concuns.
 
 ### Proyectos con solo led y botones
 
