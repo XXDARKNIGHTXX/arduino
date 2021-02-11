@@ -6,9 +6,9 @@
 
 Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y estamos practicando. Esto es un repositiorio ... Estamos haciendo un semaforo, una melodia, Feliz Cumpleaños, Theremin y otros proyectos  y mis compañeros los concuns.
 
-## Índicde de proyectos
+## Índice de proyectos⚡
 
-## Proyectos realizados
+## Proyectos realizados✨
 
 ### Proyectos con solo led y botones😈
 
@@ -25,7 +25,7 @@ Holaa soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y esta
 ### Proyecto con sensor motor y potenciómetro🐾
 
 
-### Otros enlaces y documentación
+### Otros enlaces y documentación🐧
 
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
