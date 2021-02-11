@@ -11,6 +11,11 @@ Este texto no tiene formato. **Este está en negrita**. Y, además _este está e
  
  <del> Esteban</del>
 
+## Descripción del proyecto
+
+
+Holaa Soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y estamos practicando. Esto es un repositiorio ... Estamos haciendo un semaforo, una melodia, Feliz Cumpleaños, Theremin y otros proyectos.
+
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Kill switch con sensores y led RGB](https://github.com/XXDARKNIGHTXX/arduino/blob/main/KILL_SWITCH.ino)
