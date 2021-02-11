@@ -38,4 +38,6 @@ Holaa Soy Victor tengo, 19 años, vivo en Gavà. Estamos haciendo arduino y esta
  
 [Proyecto 2 botones que cambian este ciclo de movimientos](https://github.com/XXDARKNIGHTXX/arduino/tree/main/PROYECTO_2_BOTONES_QUE_CAMBIAN_ESTE_CICLOS_DE_MOVIMIENTOS)
 
- [BOTONES_SUMAS_Y_RESTAS_GRADOS_VICTOR](https://github.com/XXDARKNIGHTXX/arduino/tree/main/BOTONES_SUMAS_Y_RESTAS_GRADOS_VICTOR)
+ [Botones_Sumas_y_Restas_Grados_VICTOR](https://github.com/XXDARKNIGHTXX/arduino/tree/main/BOTONES_SUMAS_Y_RESTAS_GRADOS_VICTOR)
+ 
+ [Lampara De Colores](https://github.com/XXDARKNIGHTXX/arduino/tree/main/lampara_de_colores.ino_Victor)
