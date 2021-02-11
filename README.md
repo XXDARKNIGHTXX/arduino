@@ -4,9 +4,9 @@
 _esta es la primera vez_
 
 Este texto no tiene formato. **Este está en negrita**. Y, además _este está en cursiva _.
-<b>Victor<_b<
- <i> Rodriguez<_i< 
- <del> Esteban<_del<
+<b>Victor</b>
+ <i> Rodriguez</i> 
+ <del> Esteban</del>
 
 [MARKDOWNSYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
