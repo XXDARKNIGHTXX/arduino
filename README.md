@@ -23,12 +23,12 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 ### Proyectos sensor de temperatura🖤
 
-*[Sensor de temperatura](https://github.com/XXDARKNIGHTXX/arduino/blob/main/sketch_jan25a_TEMPERATURA/sketch_jan25a_VICTOR_R.ino)
+* [Sensor de temperatura](https://github.com/XXDARKNIGHTXX/arduino/blob/main/sketch_jan25a_TEMPERATURA/sketch_jan25a_VICTOR_R.ino)
 
 
 ### Proyectos con LED RGB🔥
-[Kill switch con sensores y led RGB](https://github.com/XXDARKNIGHTXX/arduino/blob/main/KILL_SWITCH.ino)
- [Lampara De Colores](https://github.com/XXDARKNIGHTXX/arduino/tree/main/lampara_de_colores.ino_Victor)
+* [Kill switch con sensores y led RGB](https://github.com/XXDARKNIGHTXX/arduino/blob/main/KILL_SWITCH.ino)
+ * [Lampara De Colores](https://github.com/XXDARKNIGHTXX/arduino/tree/main/lampara_de_colores.ino_Victor)
 
 
 ### Proyectos con piezo (Altavoz)💸
