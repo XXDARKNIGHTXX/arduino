@@ -8,6 +8,8 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 ### Índice de proyectos🐺
 
+* [Proyecto con sensor motor y potenciómetro🎵](https://github.com/XXDARKNIGHTXX/arduino#proyecto-con-sensor-motor-y-potenci%C3%B3metro)
+
 ### Proyectos realizados✨
 
 ### Proyectos con solo led y botones😈
