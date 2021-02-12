@@ -36,7 +36,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 * [Theremin](https://github.com/XXDARKNIGHTXX/arduino/blob/main/theremin.ino)
 * [Feliz Cumpleaños](https://github.com/XXDARKNIGHTXX/arduino/blob/main/FELIZCUMPLEA_OS.inoVictor.ino)
 * [Melodia](https://github.com/XXDARKNIGHTXX/arduino/blob/main/MELODIA.INO)
-
+* [Instrumento de teclado Victor](https://github.com/XXDARKNIGHTXX/arduino/tree/main/instrumento_de_teclado_victor)
 
 ### Proyecto con sensor motor y potenciómetro🎵
 
