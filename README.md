@@ -57,7 +57,8 @@ https://github.com/XXDARKNIGHTXX/arduino/blob/main/Indicador_de_estado/Indicador
 ![atet](https://raw.githubusercontent.com/XXDARKNIGHTXX/arduino/main/Captura%20de%20pantalla%20de%202021-02-11%2012-14-46.png)
 ![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-11%2012-28-01.png)
 ![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/VICTOR%20CAPTURA%20DE%20PANTALLA%2B.png)
-
+![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210223_124153.jpg)
+ 
 
 
 ### Interfaz de nave espacial🌹❤
