@@ -42,7 +42,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 * [Giro de Helice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/GIRO%20DE%20HELICE)
 * [Victor Elice](https://github.com/XXDARKNIGHTXX/arduino/tree/main/VICTOR_HELICE)
-https://github.com/XXDARKNIGHTXX/arduino/blob/main/Indicador_de_estado/Indicador_de_estado_de__nimo.ino)
+
 
 
 
