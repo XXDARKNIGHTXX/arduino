@@ -4,7 +4,7 @@
 ## Descripción del proyecto
 
 
-### ♛★✈✞❆
+### ♛★♛
 
 Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y estamos practicando. Esto es un repositorio ... Estamos haciendo un semáforo, una melodía, Feliz Cumpleaños, Theremin y otros proyectos y mis compañeros los concuns.
 
