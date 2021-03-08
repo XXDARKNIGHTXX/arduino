@@ -21,7 +21,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 * [Proyecto 2 botones que cambian este ciclo de movimientos](https://github.com/XXDARKNIGHTXX/arduino/tree/main/PROYECTO_2_BOTONES_QUE_CAMBIAN_ESTE_CICLOS_DE_MOVIMIENTOS)
 *[Encender_Parpadeo_de_Leds](https://github.com/XXDARKNIGHTXX/arduino/tree/main/Encender_Parpadeo_de_ledsVictorR.ino)
 *[Media_Nota](https://github.com/XXDARKNIGHTXX/arduino/tree/main/MEDIA_NOTASVICTOR.INO)
-
+*[MEDIA_NOTASVICTOR_RODRIGUEZ](https://github.com/XXDARKNIGHTXX/arduino/tree/main/MEDIA_NOTASVICTOR_RODRIGUEZ.INO)
 
 ### Proyectos sensor de temperatura🖤
 
