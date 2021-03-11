@@ -72,7 +72,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 ### Emoji Arduino🖤☝
 * [Emoji Arduino](https://github.com/XXDARKNIGHTXX/arduino/tree/main/emojiVictor.ino)
-
+* [Emoji Triste](https://github.com/XXDARKNIGHTXX/arduino/tree/main/CARA_TRISTE_VICTOR)
 
 
 ### Numero Arduinoo🌴
