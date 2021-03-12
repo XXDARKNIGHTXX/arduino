@@ -79,6 +79,11 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 * [Hello World](https://github.com/XXDARKNIGHTXX/arduino/tree/main/numeros_arduino)
  
  
+ 
+ 
+ ### Notas Iterador
+ * [Notas Iterador](https://github.com/XXDARKNIGHTXX/arduino/tree/main/MEDIAVICTOR)
+ 
 
  
  ## Empezando a documentar
