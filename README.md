@@ -81,7 +81,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
  
  
  
- ### Notas Iterador
+ ### Notas Iterador🦝
  * [Notas Iterador](https://github.com/XXDARKNIGHTXX/arduino/tree/main/MEDIAVICTOR)
  
 
