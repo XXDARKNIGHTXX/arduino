@@ -1,4 +1,4 @@
-💜### proyecto de arduino🙈
+### proyecto de arduino🙈
 
 
 ## Descripción del proyecto🐨
@@ -92,10 +92,13 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 
 
+### Zootropo😊
+* [Zootropo.INo](https://github.com/XXDARKNIGHTXX/arduino/tree/main/ZOOTROPO.INO_VICTOR)
 
 
 
-### Luz Tactil
+
+### Luz Tactil🎮
 * [LUZ TACTIL](https://github.com/XXDARKNIGHTXX/arduino/tree/main/luz_tactill.VICTORino)
  
  ## Empezando a documentar
