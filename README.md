@@ -27,6 +27,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 ### Proyectos sensor de temperatura🖤
 
 * [Sensor de temperatura](https://github.com/XXDARKNIGHTXX/arduino/blob/main/sketch_jan25a_TEMPERATURA/sketch_jan25a_VICTOR_R.ino)
+* [Sensor De Temperatura](https://github.com/XXDARKNIGHTXX/arduino/tree/main/Sensor_De_Temperatura.INO)
 
 
 ### Proyectos con LED RGB🔥
