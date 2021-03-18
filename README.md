@@ -105,7 +105,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 
 
 ### Joystick🐀
-* [Joystick](https://github.com/XXDARKNIGHTXX/arduino/tree/main/joysticktest.INOvictor)
+* [Joystick](https://github.com/XXDARKNIGHTXX/arduino/blob/main/joysticktest.INOvictor/joysticktest.INOvictor.ino)
 
 
 
