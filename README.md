@@ -24,6 +24,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 * [MEDIA_NOTASVICTOR_RODRIGUEZ](https://github.com/XXDARKNIGHTXX/arduino/tree/main/MEDIA_NOTASVICTOR_RODRIGUEZ.INO)
 * [SEMAFORO VICTOR](https://github.com/XXDARKNIGHTXX/arduino/tree/main/SEMAFORO.INO_VICTOR)
 * [TestLeds](https://github.com/XXDARKNIGHTXX/arduino/tree/main/testLeds.INO_VICTOR)
+* [Operador hecho por CONCUNS](https://github.com/XXDARKNIGHTXX/arduino/tree/main/operador_o)
 
 ### Proyectos sensor de temperatura🖤
 
@@ -71,6 +72,7 @@ Holaa soy Víctor tengo, 19 años, vivo en Gavà. Estamos haciendo Arduino y est
 ![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210315_132751.jpg)
 ![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210318_100952.jpg)
 ![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210318_123940.jpg)
+![atet](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210318_133853.jpg)
 
 
 ### Interfaz de nave espacial🌹❤
